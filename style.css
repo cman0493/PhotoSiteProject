@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+body {
+  background-color:silver;
+}
+h1 {
+  font-family: 'Ubuntu Mono', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 35px;
+  letter-spacing: 5px;
+  font-size: 3vw;
+  text-align: center;
+  border-bottom: 5px solid slategrey
+}
+img {
+    width: 22.5%;
+    margin: 1.25%;
+    float: left;
+}
